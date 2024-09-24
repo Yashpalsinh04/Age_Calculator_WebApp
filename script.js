@@ -43,7 +43,6 @@ function calculateAge() {
         year3 = 0;
     }
 
-
     result.innerHTML = `You are <span>${year3}</span> years, <span>${month3}</span> months and <span>${date3}</span> days old. `
 }
 
