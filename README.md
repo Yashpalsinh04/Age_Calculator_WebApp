@@ -4,7 +4,7 @@ A simple Age Calculator app built using HTML, CSS, and JavaScript. This app allo
 - Date Picker: A user-friendly calendar to select the date of birth.<br>
 - Accurate Age Calculation: Displays the exact age in years, months, and days.<br>
 - Real-Time Results: Instant results on clicking the "Calculate" button.<br>
-# Technologies Used:
+# # Tech Stack:
 - HTML for structure<br>
 - CSS for styling<br>
 - JavaScript for functionality<br>
